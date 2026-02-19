@@ -1,0 +1,6 @@
+[submodule "services/Api-gateway"]
+	path = services/Api-gateway
+	url = git@github.com:MALblSH/Api-gateway.git
+[submodule "services/Frontend"]
+	path = services/Frontend
+	url = git@github.com:MALblSH/frontend.git
