@@ -4,3 +4,15 @@
 [submodule "services/Frontend"]
 	path = services/Frontend
 	url = git@github.com:MALblSH/frontend.git
+[submodule "services/Auth-service"]
+	path = services/Auth-service
+	url = git@github.com:MALblSH/Auth-service.git
+[submodule "services/Podcast_core"]
+	path = services/Podcast_core
+	url = git@github.com:MALblSH/Podcast_core.git
+[submodule "services/Media_service"]
+	path = services/Media_service
+	url = git@github.com:MALblSH/Media_service.git
+[submodule "services/Speech_service"]
+	path = services/Speech_service
+	url = git@github.com:MALblSH/Speech_service.git
